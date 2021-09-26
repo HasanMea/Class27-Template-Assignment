@@ -1,0 +1,282 @@
+
+
+@media (max-width:1224px) {
+    .fixed-width {
+        width: 100%;
+        max-width: 100%;
+    }
+    .fixed-width {
+        width: 100%;
+        max-width: 100%;
+        padding: 0 20px;
+        box-sizing: border-box;
+    }
+    .banner {
+        padding: 160px 0;
+    }
+    .header-left h3 {
+        font-size: 28px;
+    }
+    .header-right ul li a {
+        font-size: 13px;
+    }
+    .banner h1 {
+        font-size: 47px;
+    }
+    .banner p {
+        font-size: 19px;
+    }
+    .banner span a {
+        padding: 8px 18px;
+        font-size: 15px;
+    }
+    .service-section p {
+        font-size: 15px;
+    }
+    .service span {
+        font-size: 34px;
+    }
+    .service {
+        width: 23%;
+        margin-left: 0;
+    }
+    .about-section p {
+        font-size: 14px;
+    }
+    .about-content p {
+        margin-bottom: 4px;
+    }
+}
+
+@media (max-width:768px) {
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right ul {
+        text-align: center;
+    }
+    .service {
+        width: 48%;
+    }
+    .image {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .about-content {
+        width: 100%;
+    }
+    .service-section {
+        padding-top: 35px;
+    }
+    .service-section p {
+        margin-bottom: 45px;
+    }
+    .about-section {
+        padding: 20px 0;
+    }
+    .about-content h4 {
+        font-weight: 600;
+        text-align: center;
+    }
+    .contact-section {
+        padding: 25px 0;
+    }
+
+    .contact-section p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width:483px) {
+    .header .fixed-width {
+        padding: 0;
+    }
+    .banner h1 {
+        font-size: 40px;
+    }
+    .banner p {
+        font-size: 17px;
+    }
+    .banner span a {
+        padding: 7px 17px;
+        font-size: 14px;
+    }
+    .banner {
+        padding: 110px 0;
+    }
+    .service {
+        width: 100%;
+    }
+    .service-section p {
+        margin-bottom: 40px;
+    }
+    .service h4 {
+        margin: 10px 0 10px 0;
+    }
+    .service-section {
+        padding-top: 20px;
+    }
+    .contact-contant {
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+        margin-right: 0;
+        padding-bottom: 15px;
+    }
+    .contact-section {
+        padding: 25px 0;
+    }
+
+    .contact-section p {
+        font-size: 15px;
+    }
+
+    .contact-section h3 {
+        font-size: 27px;
+    }
+
+
+    .social-menu ul li a {
+        font-size: 25px;
+        line-height: 50px;
+    }
+    .footer {
+        font-size: 16px;
+    }
+    .about-section p {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}
+
+@media (max-width:411px) {
+    .header-left h3 {
+        font-size: 27px;
+    }
+    .header .fixed-width {
+        padding: 0;
+    }
+    .header-right ul li a {
+	padding: 0px 4px;
+	line-height: 35px;
+    }
+    .header-right ul {
+	margin-left: 5px;
+    }
+    .banner h1 {
+        font-size: 26px;
+    }
+    .banner p {
+        font-size: 15px;
+        padding: 5px 0px 25px;
+    }
+    .banner span a {
+        padding: 5px 10px;
+    }
+    .banner {
+        padding: 55px 0;
+    }
+    .service-section p {
+        margin-bottom: 22px;
+    }
+    .about-section {
+        padding: 20px 0;
+    }
+    .about-section p {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .contact-section p {
+        font-size: 15px;
+        margin-bottom: 25px;
+    }
+    .contact-section {
+        padding-top: 18px;
+        padding-bottom: 0;
+    }
+    .contact-contant p {
+        margin-bottom: 0;
+    }
+    .social-menu ul li a {
+        font-size: 22px;
+    }
+    .footer {
+        font-size: 15px;
+    }
+}
+
+@media (max-width:320px) {
+    .header-right ul {
+        margin-left: 0;
+    }
+    .header-right ul li a {
+        padding: 0px 4px;
+        line-height: 30px;
+    }
+    .header-left h3 {
+        line-height: 40px;
+        font-size: 25px;
+    }
+    .header-right ul li a {
+        font-size: 11px;
+    }
+    .banner h1 {
+        font-size: 23px;
+    }
+    .banner p {
+        font-size: 13px;
+        padding: 3px 0px 18px;
+    }
+    .banner span a {
+        font-size: 13px;
+    }
+    .footer {
+        font-size: 13px;
+    }
+    .social-menu ul li a {
+        font-size: 20px;
+    }
+    .service-section {
+        padding-top: 8px;
+    }
+    .service-section h3 {
+        margin-bottom: 5px;
+    }
+    .service-section p {
+        margin-bottom: 13px;
+    }
+    .service h4 {
+        margin: 5px 0;
+    }
+    .about-section {
+        padding: 13px 0;
+    }
+    .about-section p {
+        font-size: 13px;
+        margin-bottom: 15px;
+    }
+    .about-section h3 {
+        margin-bottom: 5px;
+    }
+    .about-content h4 {
+        font-weight: 600;
+    }
+    .contact-section {
+        padding-top: 12px;
+    }
+    .contact-section h3 {
+        margin-bottom: 6px;
+    }
+    .contact-section p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .contact-contant p {
+        margin-bottom: 0;
+    }
+}
